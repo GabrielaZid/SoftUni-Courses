@@ -1,1 +1,1 @@
-# gitBash Repostory
+# GitBash Repostory
